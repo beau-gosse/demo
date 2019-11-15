@@ -3,7 +3,7 @@
     {
       "id": 1,
       "provider": "Bell Canada",
-      "title": "Unlimited US-Canada Talk",
+      "description": "Unlimited US-Canada Talk",
       "category": "phone",
       "amount": 55,
       "duedate": "2019-11-01"
@@ -11,7 +11,7 @@
     {
       "id": 2,
       "provider": "Rogers",
-      "title": "Data Max Plus",
+      "description": "Data Max Plus",
       "category": "phone",
       "amount": 75,
       "duedate": "2019-11-20"
@@ -20,7 +20,7 @@
       "id": 3,
       "provider": "Vidéotron",
       "category": "cable",
-      "title": "Movie Lovers",
+      "description": "Movie Lovers",
       "amount": 205,
       "duedate": "2019-12-15"
     },
@@ -28,7 +28,7 @@
       "id": 4,
       "provider": "Telus",
       "category": "phone",
-      "title": "Talk and Text Plus",
+      "description": "Talk and Text Plus",
       "amount": 44,
       "duedate": "2019-12-11"
     },
@@ -36,7 +36,7 @@
       "id": 5,
       "provider": "TekSavvy",
       "category": "cable",
-      "title": "Ultimate Fibe 200",
+      "description": "Ultimate Fibe 200",
       "amount": 87.5,
       "duedate": "2019-11-03"
     },
@@ -44,7 +44,7 @@
       "id": 6,
       "provider": "Freedom Mobile",
       "category": "phone",
-      "title": "Tab 100",
+      "description": "Tab 100",
       "amount": 67.75,
       "duedate": "2019-12-25"
     }             
