@@ -1,14 +1,59 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
+  "expenses": [
+    {
+      "id": 1,
+      "provider": "Bell Canada",
+      "title": "Unlimited US-Canada Talk",
+      "category": "phone",
+      "amount": 55,
+      "duedate": "2019-11-01"
+    },
+    {
+      "id": 2,
+      "provider": "Rogers",
+      "title": "Data Max Plus",
+      "category": "phone",
+      "amount": 75,
+      "duedate": "2019-11-20"
+    },
+    {
+      "id": 3,
+      "provider": "Vidéotron",
+      "category": "cable",
+      "title": "Movie Lovers",
+      "amount": 205,
+      "duedate": "2019-12-15"
+    },
+    {
+      "id": 4,
+      "provider": "Telus",
+      "category": "phone",
+      "title": "Talk and Text Plus",
+      "amount": 44,
+      "duedate": "2019-12-11"
+    },
+    {
+      "id": 5,
+      "provider": "TekSavvy",
+      "category": "cable",
+      "title": "Ultimate Fibe 200",
+      "amount": 87.5,
+      "duedate": "2019-11-03"
+    },
+    {
+      "id": 6,
+      "provider": "Freedom Mobile",
+      "category": "phone",
+      "title": "Tab 100",
+      "amount": 67.75,
+      "duedate": "2019-12-25"
+    }             
   ],
   "profile": {
-    "name": "typicode"
+    "name": "John Doe",
+    "city": "Toronto",
+    "username": "jdoe2019",
+    "email": "john.doe@test.com",
+    "phone": "4165555555"
   }
 }
