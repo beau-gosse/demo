@@ -49,6 +49,35 @@
       "duedate": "2019-12-25"
     }             
   ],
+  "incomes": [
+    {
+      "id": 1,
+      "source": "Nexx Corp",
+      "description": "Main source of income.",
+      "category": "salary",
+      "frequency": "biweekly",
+      "amount": 1055,
+      "nextpaymentdate": "2019-11-01"
+    },
+    {
+      "id": 2,
+      "source": "Self Reliance LTD",
+      "description": "Self employment",
+      "category": "selfemmployed",
+      "frequency": "biweekly",
+      "amount": 1055,
+      "nextpaymentdate": "2019-12-01"
+    },
+    {
+      "id": 3,
+      "source": "Federal",
+      "description": "GST tax credit",
+      "category": "government",
+      "frequency": "monthly",
+      "amount": 430,
+      "nextpaymentdate": "2019-12-20"
+    }        
+  ],
   "profile": {
     "name": "John Doe",
     "city": "Toronto",
