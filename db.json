@@ -91,7 +91,7 @@
     {
       "id": 2,
       "title": "My first house",
-      "description": "This is my first house".,
+      "description": "This is my first house.",
       "category": "housing",      
       "goal": 30000,
       "saved": 7500,
