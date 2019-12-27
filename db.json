@@ -78,6 +78,35 @@
       "nextpaymentdate": "2019-12-20"
     }        
   ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "My first car",
+      "description": "This is my first car",
+      "category": "transport",      
+      "goal": 20000,
+      "saved": 10500,
+      "term": "2019-11-01"      
+    },
+    {
+      "id": 2,
+      "title": "My first house",
+      "description": "This is my first house".,
+      "category": "housing",      
+      "goal": 30000,
+      "saved": 7500,
+      "term": "2019-12-01"      
+    },
+    {
+      "id": 3,
+      "title": "Trip to Paris",
+      "description": "This is my first trip Paris.",
+      "category": "trsvel",      
+      "goal": 5000,
+      "saved": 1100,
+      "term": "2019-12-21"      
+    }            
+  ],
   "profile": {
     "name": "John Doe",
     "city": "Toronto",
