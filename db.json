@@ -120,7 +120,7 @@
       "color": "#A270D6",
       "category": "fixedcost",
       "url": "/app/forms/update/?a=update&item=cable&key=713",
-      "rrule": "DTSTART:20190201 RRULE:FREQ=MONTHLY;UNTIL=20190630;INTERVAL=1;BYMONTHDAY=01"
+      "rrule": "DTSTART:20190201\nRRULE:FREQ=MONTHLY;UNTIL=20190630;INTERVAL=1;BYMONTHDAY=01"
     },
     {
       "id": 1097,
@@ -128,7 +128,7 @@
       "color": "#A270D6",
       "category": "fixedcost",
       "url": "/app/forms/update/?a=update&item=insurance&key=1097",
-      "rrule": "DTSTART:20180131 RRULE:FREQ=MONTHLY;UNTIL=20190630;INTERVAL=1;BYMONTHDAY=28,29,30,31;BYSETPOS=-1"
+      "rrule": "DTSTART:20180131\nRRULE:FREQ=MONTHLY;UNTIL=20190630;INTERVAL=1;BYMONTHDAY=28,29,30,31;BYSETPOS=-1"
     },
     {
       "id": 1100,
@@ -136,7 +136,7 @@
       "color": "#A270D6",
       "category": "fixedcost",
       "url": "/app/forms/update/?a=update&item=license&key=1100",
-      "rrule": "DTSTART:20180610 RRULE:FREQ=YEARLY;UNTIL=20180611;INTERVAL=1;BYYEARDAY=162"
+      "rrule": "DTSTART:20180610\nRRULE:FREQ=YEARLY;UNTIL=20180611;INTERVAL=1;BYYEARDAY=162"
     },
     {
       "id": 1101,
@@ -144,7 +144,7 @@
       "color": "#A270D6",
       "category": "fixedcost",
       "url": "/app/forms/update/?a=update&item=license&key=1101",
-      "rrule": "DTSTART:20180610 RRULE:FREQ=YEARLY;UNTIL=20180611;INTERVAL=1;BYYEARDAY=162"
+      "rrule": "DTSTART:20180610\nRRULE:FREQ=YEARLY;UNTIL=20180611;INTERVAL=1;BYYEARDAY=162"
     },
     {
       "id": 1102,
@@ -152,7 +152,7 @@
       "color": "#A270D6",
       "category": "fixedcost",
       "url": "/app/forms/update/?a=update&item=insurance&key=1102",
-      "rrule": "DTSTART:20190131 RRULE:FREQ=MONTHLY;UNTIL=20190630;INTERVAL=1;BYMONTHDAY=28,29,30,31;BYSETPOS=-1"
+      "rrule": "DTSTART:20190131\nRRULE:FREQ=MONTHLY;UNTIL=20190630;INTERVAL=1;BYMONTHDAY=28,29,30,31;BYSETPOS=-1"
     },
     {
       "id": 3429,
@@ -160,7 +160,7 @@
       "color": "#A270D6",
       "category": "fixedcost",
       "url": "/app/forms/update/?a=update&item=phone&key=3429",
-      "rrule": "DTSTART:20190727 RRULE:FREQ=WEEKLY;INTERVAL=1;BYWEEKDAY=SA"
+      "rrule": "DTSTART:20190727\nRRULE:FREQ=WEEKLY;INTERVAL=1;BYWEEKDAY=SA"
     },
     {
       "id": 3140,
@@ -168,7 +168,7 @@
       "color": "#A270D6",
       "category": "fixedcost",
       "url": "/app/forms/update/?a=update&item=lease&key=3140",
-      "rrule": "DTSTART:20190728 RRULE:FREQ=YEARLY;INTERVAL=1;BYYEARDAY=210"
+      "rrule": "DTSTART:20190728\nRRULE:FREQ=YEARLY;INTERVAL=1;BYYEARDAY=210"
     },
     {
       "id": 4293,
@@ -176,7 +176,7 @@
       "color": "#A270D6",
       "category": "fixedcost",
       "url": "/app/forms/update/?a=update&item=license&key=4293",
-      "rrule": "DTSTART:20191126 RRULE:FREQ=MONTHLY;INTERVAL=1;BYMONTHDAY=26"
+      "rrule": "DTSTART:20191126\nRRULE:FREQ=MONTHLY;INTERVAL=1;BYMONTHDAY=26"
     },
     {
       "id": 2991,
@@ -184,7 +184,7 @@
       "color": "#A270D6",
       "category": "fixedcost",
       "url": "/app/forms/update/?a=update&item=sports&key=2991",
-      "rrule": "DTSTART:20190207 RRULE:FREQ=WEEKLY;INTERVAL=2;BYWEEKDAY=TH"
+      "rrule": "DTSTART:20190207\nRRULE:FREQ=WEEKLY;INTERVAL=2;BYWEEKDAY=TH"
     },
     {
       "id": 4063,
@@ -192,7 +192,7 @@
       "color": "#A270D6",
       "category": "fixedcost",
       "url": "/app/forms/update/?a=update&item=phone&key=4063",
-      "rrule": "DTSTART:20190730 RRULE:FREQ=MONTHLY;INTERVAL=2;BYMONTHDAY=28,29,30;BYSETPOS=-1"
+      "rrule": "DTSTART:20190730\nRRULE:FREQ=MONTHLY;INTERVAL=2;BYMONTHDAY=28,29,30;BYSETPOS=-1"
     },
     {
       "id": 4064,
@@ -200,7 +200,7 @@
       "color": "#A270D6",
       "category": "fixedcost",
       "url": "/app/forms/update/?a=update&item=insurance&key=4064",
-      "rrule": "DTSTART:20190723 RRULE:FREQ=MONTHLY;INTERVAL=3;BYMONTHDAY=23"
+      "rrule": "DTSTART:20190723\nRRULE:FREQ=MONTHLY;INTERVAL=3;BYMONTHDAY=23"
     },
     {
       "id": 4081,
@@ -208,7 +208,7 @@
       "color": "#A270D6",
       "category": "fixedcost",
       "url": "/app/forms/update/?a=update&item=license&key=4081",
-      "rrule": "DTSTART:20190724 RRULE:FREQ=MONTHLY;INTERVAL=2;BYMONTHDAY=24"
+      "rrule": "DTSTART:20190724\nRRULE:FREQ=MONTHLY;INTERVAL=2;BYMONTHDAY=24"
     },
     {
       "id": 209,
@@ -216,7 +216,7 @@
       "color": "#D51E69",
       "category": "creditcard",
       "url": "/app/forms/update/?a=update&item=creditcard&key=209",
-      "rrule": "DTSTART:20190128 RRULE:FREQ=MONTHLY;INTERVAL=1;BYMONTHDAY=28"
+      "rrule": "DTSTART:20190128\nRRULE:FREQ=MONTHLY;INTERVAL=1;BYMONTHDAY=28"
     },
     {
       "id": 614,
@@ -224,7 +224,7 @@
       "color": "#f77F00",
       "category": "loan",
       "url": "/app/forms/update/?a=update&item=liability&key=614",
-      "rrule": "DTSTART:20190220 RRULE:FREQ=WEEKLY;UNTIL=20230301;INTERVAL=2;BYWEEKDAY=WE"
+      "rrule": "DTSTART:20190220\nRRULE:FREQ=WEEKLY;UNTIL=20230301;INTERVAL=2;BYWEEKDAY=WE"
     },
     {
       "id": 281,
@@ -232,7 +232,7 @@
       "color": "#796eff",
       "category": "investment",
       "url": "/app/forms/update/?a=update&item=investment&key=281",
-      "rrule": "DTSTART:20190726 RRULE:FREQ=MONTHLY;INTERVAL=1;BYMONTHDAY=26"
+      "rrule": "DTSTART:20190726\nRRULE:FREQ=MONTHLY;INTERVAL=1;BYMONTHDAY=26"
     },
     {
       "id": 142,
@@ -240,7 +240,7 @@
       "color": "#0366d6",
       "category": "",
       "url": "/app/forms/update/?a=update&item=bankaccount&key=142",
-      "rrule": "DTSTART:20180730 RRULE:FREQ=MONHTLY;INTERVAL=1;BYMONTHDAY=28,29,30;BYSETPOS=-1"
+      "rrule": "DTSTART:20180730\nRRULE:FREQ=MONHTLY;INTERVAL=1;BYMONTHDAY=28,29,30;BYSETPOS=-1"
     },
     {
       "id": 395,
@@ -248,7 +248,7 @@
       "color": "#33A2BB",
       "category": "income",
       "url": "/app/forms/update/?a=update&item=government&key=395",
-      "rrule": "DTSTART:20190301 RRULE:FREQ=MONTHLY;INTERVAL=3;BYMONTHDAY=01"
+      "rrule": "DTSTART:20190301\nRRULE:FREQ=MONTHLY;INTERVAL=3;BYMONTHDAY=01"
     },
     {
       "id": 394,
@@ -256,7 +256,7 @@
       "color": "#33A2BB",
       "category": "income",
       "url": "/app/forms/update/?a=update&item=government&key=394",
-      "rrule": "DTSTART:20190315 RRULE:FREQ=MONTHLY;INTERVAL=3;BYMONTHDAY=15"
+      "rrule": "DTSTART:20190315\nRRULE:FREQ=MONTHLY;INTERVAL=3;BYMONTHDAY=15"
     },
     {
       "id": 1395,
@@ -264,7 +264,7 @@
       "color": "#33A2BB",
       "category": "income",
       "url": "/app/forms/update/?a=update&item=salary&key=1395",
-      "rrule": "DTSTART:20190725 RRULE:FREQ=WEEKLY;INTERVAL=2;BYWEEKDAY=TH"
+      "rrule": "DTSTART:20190725\nRRULE:FREQ=WEEKLY;INTERVAL=2;BYWEEKDAY=TH"
     },
     {
       "id": 1447,
@@ -272,7 +272,7 @@
       "color": "#33A2BB",
       "category": "income",
       "url": "/app/forms/update/?a=update&item=parent&key=1447",
-      "rrule": "DTSTART:20190724 RRULE:FREQ=MONTHLY;INTERVAL=1;BYMONTHDAY=24"
+      "rrule": "DTSTART:20190724\nRRULE:FREQ=MONTHLY;INTERVAL=1;BYMONTHDAY=24"
     },
     {
       "id": 203,
@@ -280,7 +280,7 @@
       "color": "#92C509",
       "category": "project",
       "url": "/app/forms/update/?a=update&item=project&key=203",
-      "rrule": "DTSTART:20190731 RRULE:FREQ=MONTHLY;UNTIL=20210701;INTERVAL=1;BYMONTHDAY=28,29,30,31;BYSETPOS=-1"
+      "rrule": "DTSTART:20190731\nRRULE:FREQ=MONTHLY;UNTIL=20210701;INTERVAL=1;BYMONTHDAY=28,29,30,31;BYSETPOS=-1"
     },
     {
       "id": 265,
@@ -288,7 +288,7 @@
       "color": "#92C509",
       "category": "project",
       "url": "/app/forms/update/?a=update&item=project&key=265",
-      "rrule": "DTSTART:20190731 RRULE:FREQ=MONTHLY;UNTIL=20200701;INTERVAL=1;BYMONTHDAY=28,29,30,31;BYSETPOS=-1"
+      "rrule": "DTSTART:20190731\nRRULE:FREQ=MONTHLY;UNTIL=20200701;INTERVAL=1;BYMONTHDAY=28,29,30,31;BYSETPOS=-1"
     }
   ],
   "profile": {
