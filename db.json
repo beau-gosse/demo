@@ -86,7 +86,7 @@
       "category": "transport",      
       "goal": 20000,
       "saved": 10500,
-      "term": "2019-11-01"      
+      "duedate": "2019-11-01"      
     },
     {
       "id": 2,
@@ -95,7 +95,7 @@
       "category": "housing",      
       "goal": 30000,
       "saved": 7500,
-      "term": "2019-12-01"      
+      "duedate": "2019-12-01"      
     },
     {
       "id": 3,
@@ -104,7 +104,7 @@
       "category": "trsvel",      
       "goal": 5000,
       "saved": 1100,
-      "term": "2019-12-21"      
+      "duedate": "2019-12-21"      
     }            
   ],
   "profile": {
