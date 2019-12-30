@@ -47,7 +47,7 @@
       "description": "Tab 100",
       "amount": 67.75,
       "duedate": "2019-12-25"
-    }             
+    }
   ],
   "incomes": [
     {
@@ -76,14 +76,14 @@
       "frequency": "monthly",
       "amount": 430,
       "nextpaymentdate": "2019-12-20"
-    }        
+    }
   ],
   "projects": [
     {
       "id": 1,
       "title": "My first car",
       "description": "This is my first car",
-      "category": "transport",      
+      "category": "transport",
       "goal": 20000,
       "saved": 10500,
       "duedate": "2019-11-01",
@@ -94,7 +94,7 @@
       "id": 2,
       "title": "My first house",
       "description": "This is my first house.",
-      "category": "housing",      
+      "category": "housing",
       "goal": 30000,
       "saved": 7500,
       "duedate": "2019-12-01",
@@ -105,13 +105,191 @@
       "id": 3,
       "title": "Trip to Paris",
       "description": "This is my first trip Paris.",
-      "category": "trsvel",      
+      "category": "trsvel",
       "goal": 5000,
       "saved": 1100,
       "duedate": "2019-12-21",
       "updateddon": "2019-12-22",
       "createdon": "2019-12-02"
-    }            
+    }
+  ],
+  "events": [
+    {
+      "id": 713,
+      "title": "Paiement Vidéotron : 100 $",
+      "color": "#A270D6",
+      "category": "fixedcost",
+      "url": "/app/forms/update/?a=update&item=cable&key=713",
+      "rrule": "DTSTART:20190201 RRULE:FREQ=MONTHLY;UNTIL=20190630;INTERVAL=1;BYMONTHDAY=01"
+    },
+    {
+      "id": 1097,
+      "title": "Paiement La capitale : 42,33 $",
+      "color": "#A270D6",
+      "category": "fixedcost",
+      "url": "/app/forms/update/?a=update&item=insurance&key=1097",
+      "rrule": "DTSTART:20180131 RRULE:FREQ=MONTHLY;UNTIL=20190630;INTERVAL=1;BYMONTHDAY=28,29,30,31;BYSETPOS=-1"
+    },
+    {
+      "id": 1100,
+      "title": "Paiement Honda : 221,94 $",
+      "color": "#A270D6",
+      "category": "fixedcost",
+      "url": "/app/forms/update/?a=update&item=license&key=1100",
+      "rrule": "DTSTART:20180610 RRULE:FREQ=YEARLY;UNTIL=20180611;INTERVAL=1;BYYEARDAY=162"
+    },
+    {
+      "id": 1101,
+      "title": "Paiement Auto : 123,3 $",
+      "color": "#A270D6",
+      "category": "fixedcost",
+      "url": "/app/forms/update/?a=update&item=license&key=1101",
+      "rrule": "DTSTART:20180610 RRULE:FREQ=YEARLY;UNTIL=20180611;INTERVAL=1;BYYEARDAY=162"
+    },
+    {
+      "id": 1102,
+      "title": "Paiement La capitale : 137,52 $",
+      "color": "#A270D6",
+      "category": "fixedcost",
+      "url": "/app/forms/update/?a=update&item=insurance&key=1102",
+      "rrule": "DTSTART:20190131 RRULE:FREQ=MONTHLY;UNTIL=20190630;INTERVAL=1;BYMONTHDAY=28,29,30,31;BYSETPOS=-1"
+    },
+    {
+      "id": 3429,
+      "title": "Paiement Vidéotron : 50 $",
+      "color": "#A270D6",
+      "category": "fixedcost",
+      "url": "/app/forms/update/?a=update&item=phone&key=3429",
+      "rrule": "DTSTART:20190727 RRULE:FREQ=WEEKLY;INTERVAL=1;BYWEEKDAY=SA"
+    },
+    {
+      "id": 3140,
+      "title": "Paiement Propriétaire : 925 $",
+      "color": "#A270D6",
+      "category": "fixedcost",
+      "url": "/app/forms/update/?a=update&item=lease&key=3140",
+      "rrule": "DTSTART:20190728 RRULE:FREQ=YEARLY;INTERVAL=1;BYYEARDAY=210"
+    },
+    {
+      "id": 4293,
+      "title": "Paiement Permis et immatriculation : 100 $",
+      "color": "#A270D6",
+      "category": "fixedcost",
+      "url": "/app/forms/update/?a=update&item=license&key=4293",
+      "rrule": "DTSTART:20191126 RRULE:FREQ=MONTHLY;INTERVAL=1;BYMONTHDAY=26"
+    },
+    {
+      "id": 2991,
+      "title": "Paiement Éconofitness : 6,89 $",
+      "color": "#A270D6",
+      "category": "fixedcost",
+      "url": "/app/forms/update/?a=update&item=sports&key=2991",
+      "rrule": "DTSTART:20190207 RRULE:FREQ=WEEKLY;INTERVAL=2;BYWEEKDAY=TH"
+    },
+    {
+      "id": 4063,
+      "title": "Paiement Telus : 80 $",
+      "color": "#A270D6",
+      "category": "fixedcost",
+      "url": "/app/forms/update/?a=update&item=phone&key=4063",
+      "rrule": "DTSTART:20190730 RRULE:FREQ=MONTHLY;INTERVAL=2;BYMONTHDAY=28,29,30;BYSETPOS=-1"
+    },
+    {
+      "id": 4064,
+      "title": "Paiement Intact : 88 $",
+      "color": "#A270D6",
+      "category": "fixedcost",
+      "url": "/app/forms/update/?a=update&item=insurance&key=4064",
+      "rrule": "DTSTART:20190723 RRULE:FREQ=MONTHLY;INTERVAL=3;BYMONTHDAY=23"
+    },
+    {
+      "id": 4081,
+      "title": "Paiement Auto : 150 $",
+      "color": "#A270D6",
+      "category": "fixedcost",
+      "url": "/app/forms/update/?a=update&item=license&key=4081",
+      "rrule": "DTSTART:20190724 RRULE:FREQ=MONTHLY;INTERVAL=2;BYMONTHDAY=24"
+    },
+    {
+      "id": 209,
+      "title": "Paiement Mastercard : 51,74 $",
+      "color": "#D51E69",
+      "category": "creditcard",
+      "url": "/app/forms/update/?a=update&item=creditcard&key=209",
+      "rrule": "DTSTART:20190128 RRULE:FREQ=MONTHLY;INTERVAL=1;BYMONTHDAY=28"
+    },
+    {
+      "id": 614,
+      "title": "Paiement Prêt auto : 140 $",
+      "color": "#f77F00",
+      "category": "loan",
+      "url": "/app/forms/update/?a=update&item=liability&key=614",
+      "rrule": "DTSTART:20190220 RRULE:FREQ=WEEKLY;UNTIL=20230301;INTERVAL=2;BYWEEKDAY=WE"
+    },
+    {
+      "id": 281,
+      "title": "Prélèvement CELI : 50 $",
+      "color": "#796eff",
+      "category": "investment",
+      "url": "/app/forms/update/?a=update&item=investment&key=281",
+      "rrule": "DTSTART:20190726 RRULE:FREQ=MONTHLY;INTERVAL=1;BYMONTHDAY=26"
+    },
+    {
+      "id": 142,
+      "title": "Paiement Banque Royale (RBC) • Chèque : 10,95 $",
+      "color": "#0366d6",
+      "category": "",
+      "url": "/app/forms/update/?a=update&item=bankaccount&key=142",
+      "rrule": "DTSTART:20180730 RRULE:FREQ=MONHTLY;INTERVAL=1;BYMONTHDAY=28,29,30;BYSETPOS=-1"
+    },
+    {
+      "id": 395,
+      "title": "Dépôt Crédits d'impôt pour solidarité : 118 $",
+      "color": "#33A2BB",
+      "category": "income",
+      "url": "/app/forms/update/?a=update&item=government&key=395",
+      "rrule": "DTSTART:20190301 RRULE:FREQ=MONTHLY;INTERVAL=3;BYMONTHDAY=01"
+    },
+    {
+      "id": 394,
+      "title": "Remboursement de la TPS : 106,75 $",
+      "color": "#33A2BB",
+      "category": "income",
+      "url": "/app/forms/update/?a=update&item=government&key=394",
+      "rrule": "DTSTART:20190315 RRULE:FREQ=MONTHLY;INTERVAL=3;BYMONTHDAY=15"
+    },
+    {
+      "id": 1395,
+      "title": "Dépôt salaire : 1300 $",
+      "color": "#33A2BB",
+      "category": "income",
+      "url": "/app/forms/update/?a=update&item=salary&key=1395",
+      "rrule": "DTSTART:20190725 RRULE:FREQ=WEEKLY;INTERVAL=2;BYWEEKDAY=TH"
+    },
+    {
+      "id": 1447,
+      "title": "Dépôt Soutien aux enfants (Qc) : 100 $",
+      "color": "#33A2BB",
+      "category": "income",
+      "url": "/app/forms/update/?a=update&item=parent&key=1447",
+      "rrule": "DTSTART:20190724 RRULE:FREQ=MONTHLY;INTERVAL=1;BYMONTHDAY=24"
+    },
+    {
+      "id": 203,
+      "title": "Épargne Achat d'un condo : 944,44 $",
+      "color": "#92C509",
+      "category": "project",
+      "url": "/app/forms/update/?a=update&item=project&key=203",
+      "rrule": "DTSTART:20190731 RRULE:FREQ=MONTHLY;UNTIL=20210701;INTERVAL=1;BYMONTHDAY=28,29,30,31;BYSETPOS=-1"
+    },
+    {
+      "id": 265,
+      "title": "Épargne Cuba 2020 : 621,67 $",
+      "color": "#92C509",
+      "category": "project",
+      "url": "/app/forms/update/?a=update&item=project&key=265",
+      "rrule": "DTSTART:20190731 RRULE:FREQ=MONTHLY;UNTIL=20200701;INTERVAL=1;BYMONTHDAY=28,29,30,31;BYSETPOS=-1"
+    }
   ],
   "profile": {
     "name": "John Doe",
