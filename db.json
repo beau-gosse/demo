@@ -240,7 +240,7 @@
       "color": "#0366d6",
       "category": "",
       "url": "/app/forms/update/?a=update&item=bankaccount&key=142",
-      "rrule": "DTSTART:20180730\nRRULE:FREQ=MONHTLY;INTERVAL=1;BYMONTHDAY=28,29,30;BYSETPOS=-1"
+      "rrule": "DTSTART:20180730\nRRULE:FREQ=MONTHLY;INTERVAL=1;BYMONTHDAY=28,29,30;BYSETPOS=-1"
     },
     {
       "id": 395,
