@@ -119,6 +119,7 @@
       "title": "Paiement Vidéotron : 100 $",
       "color": "#A270D6",
       "category": "fixedcost",
+      "resource": "cable",
       "url": "/app/forms/update/?a=update&item=cable&key=713",
       "rrule": "DTSTART:20190201\nRRULE:FREQ=MONTHLY;UNTIL=20190630;INTERVAL=1;BYMONTHDAY=01"
     },
@@ -127,6 +128,7 @@
       "title": "Paiement La capitale : 42,33 $",
       "color": "#A270D6",
       "category": "fixedcost",
+      "resource": "insurance",
       "url": "/app/forms/update/?a=update&item=insurance&key=1097",
       "rrule": "DTSTART:20180131\nRRULE:FREQ=MONTHLY;UNTIL=20190630;INTERVAL=1;BYMONTHDAY=28,29,30,31;BYSETPOS=-1"
     },
@@ -135,6 +137,7 @@
       "title": "Paiement Honda : 221,94 $",
       "color": "#A270D6",
       "category": "fixedcost",
+      "resource": "transportation",
       "url": "/app/forms/update/?a=update&item=license&key=1100",
       "rrule": "DTSTART:20180610\nRRULE:FREQ=YEARLY;UNTIL=20180611;INTERVAL=1;BYYEARDAY=162"
     },
@@ -143,6 +146,7 @@
       "title": "Paiement Auto : 123,3 $",
       "color": "#A270D6",
       "category": "fixedcost",
+      "resource": "transportation",
       "url": "/app/forms/update/?a=update&item=license&key=1101",
       "rrule": "DTSTART:20180610\nRRULE:FREQ=YEARLY;UNTIL=20180611;INTERVAL=1;BYYEARDAY=162"
     },
@@ -151,6 +155,7 @@
       "title": "Paiement La capitale : 137,52 $",
       "color": "#A270D6",
       "category": "fixedcost",
+      "resource": "transportation",
       "url": "/app/forms/update/?a=update&item=insurance&key=1102",
       "rrule": "DTSTART:20190131\nRRULE:FREQ=MONTHLY;UNTIL=20190630;INTERVAL=1;BYMONTHDAY=28,29,30,31;BYSETPOS=-1"
     },
@@ -159,6 +164,7 @@
       "title": "Paiement Vidéotron : 50 $",
       "color": "#A270D6",
       "category": "fixedcost",
+      "resource": "cable",
       "url": "/app/forms/update/?a=update&item=phone&key=3429",
       "rrule": "DTSTART:20190727\nRRULE:FREQ=WEEKLY;INTERVAL=1;BYWEEKDAY=SA"
     },
@@ -167,6 +173,7 @@
       "title": "Paiement Propriétaire : 925 $",
       "color": "#A270D6",
       "category": "fixedcost",
+      "resource": "lease",
       "url": "/app/forms/update/?a=update&item=lease&key=3140",
       "rrule": "DTSTART:20190728\nRRULE:FREQ=YEARLY;INTERVAL=1;BYYEARDAY=210"
     },
@@ -175,6 +182,7 @@
       "title": "Paiement Permis et immatriculation : 100 $",
       "color": "#A270D6",
       "category": "fixedcost",
+      "resource": "license",
       "url": "/app/forms/update/?a=update&item=license&key=4293",
       "rrule": "DTSTART:20191126\nRRULE:FREQ=MONTHLY;INTERVAL=1;BYMONTHDAY=26"
     },
@@ -183,6 +191,7 @@
       "title": "Paiement Éconofitness : 6,89 $",
       "color": "#A270D6",
       "category": "fixedcost",
+      "resource": "sports",
       "url": "/app/forms/update/?a=update&item=sports&key=2991",
       "rrule": "DTSTART:20190207\nRRULE:FREQ=WEEKLY;INTERVAL=2;BYWEEKDAY=TH"
     },
@@ -191,6 +200,7 @@
       "title": "Paiement Telus : 80 $",
       "color": "#A270D6",
       "category": "fixedcost",
+      "resource": "phone",
       "url": "/app/forms/update/?a=update&item=phone&key=4063",
       "rrule": "DTSTART:20190730\nRRULE:FREQ=MONTHLY;INTERVAL=2;BYMONTHDAY=28,29,30;BYSETPOS=-1"
     },
@@ -199,6 +209,7 @@
       "title": "Paiement Intact : 88 $",
       "color": "#A270D6",
       "category": "fixedcost",
+      "resource": "insurance",
       "url": "/app/forms/update/?a=update&item=insurance&key=4064",
       "rrule": "DTSTART:20190723\nRRULE:FREQ=MONTHLY;INTERVAL=3;BYMONTHDAY=23"
     },
@@ -207,6 +218,7 @@
       "title": "Paiement Auto : 150 $",
       "color": "#A270D6",
       "category": "fixedcost",
+      "resource": "transportation",
       "url": "/app/forms/update/?a=update&item=license&key=4081",
       "rrule": "DTSTART:20190724\nRRULE:FREQ=MONTHLY;INTERVAL=2;BYMONTHDAY=24"
     },
@@ -215,6 +227,7 @@
       "title": "Paiement Mastercard : 51,74 $",
       "color": "#D51E69",
       "category": "creditcard",
+      "resource": "creditcard",
       "url": "/app/forms/update/?a=update&item=creditcard&key=209",
       "rrule": "DTSTART:20190128\nRRULE:FREQ=MONTHLY;INTERVAL=1;BYMONTHDAY=28"
     },
@@ -223,6 +236,7 @@
       "title": "Paiement Prêt auto : 140 $",
       "color": "#f77F00",
       "category": "loan",
+      "resource": "loan",
       "url": "/app/forms/update/?a=update&item=liability&key=614",
       "rrule": "DTSTART:20190220\nRRULE:FREQ=WEEKLY;UNTIL=20230301;INTERVAL=2;BYWEEKDAY=WE"
     },
@@ -231,6 +245,7 @@
       "title": "Prélèvement CELI : 50 $",
       "color": "#796eff",
       "category": "investment",
+      "resource": "investment",
       "url": "/app/forms/update/?a=update&item=investment&key=281",
       "rrule": "DTSTART:20190726\nRRULE:FREQ=MONTHLY;INTERVAL=1;BYMONTHDAY=26"
     },
@@ -239,6 +254,7 @@
       "title": "Paiement Banque Royale (RBC) • Chèque : 10,95 $",
       "color": "#0366d6",
       "category": "",
+      "resource": "bank",
       "url": "/app/forms/update/?a=update&item=bankaccount&key=142",
       "rrule": "DTSTART:20180730\nRRULE:FREQ=MONTHLY;INTERVAL=1;BYMONTHDAY=28,29,30;BYSETPOS=-1"
     },
@@ -247,6 +263,7 @@
       "title": "Dépôt Crédits d'impôt pour solidarité : 118 $",
       "color": "#33A2BB",
       "category": "income",
+      "resource": "income",
       "url": "/app/forms/update/?a=update&item=government&key=395",
       "rrule": "DTSTART:20190301\nRRULE:FREQ=MONTHLY;INTERVAL=3;BYMONTHDAY=01"
     },
@@ -255,6 +272,7 @@
       "title": "Remboursement de la TPS : 106,75 $",
       "color": "#33A2BB",
       "category": "income",
+      "resource": "income",
       "url": "/app/forms/update/?a=update&item=government&key=394",
       "rrule": "DTSTART:20190315\nRRULE:FREQ=MONTHLY;INTERVAL=3;BYMONTHDAY=15"
     },
@@ -263,6 +281,7 @@
       "title": "Dépôt salaire : 1300 $",
       "color": "#33A2BB",
       "category": "income",
+      "resource": "income",
       "url": "/app/forms/update/?a=update&item=salary&key=1395",
       "rrule": "DTSTART:20190725\nRRULE:FREQ=WEEKLY;INTERVAL=2;BYWEEKDAY=TH"
     },
@@ -271,6 +290,7 @@
       "title": "Dépôt Soutien aux enfants (Qc) : 100 $",
       "color": "#33A2BB",
       "category": "income",
+      "resource": "income",
       "url": "/app/forms/update/?a=update&item=parent&key=1447",
       "rrule": "DTSTART:20190724\nRRULE:FREQ=MONTHLY;INTERVAL=1;BYMONTHDAY=24"
     },
@@ -279,6 +299,7 @@
       "title": "Épargne Achat d'un condo : 944,44 $",
       "color": "#92C509",
       "category": "project",
+      "resource": "project",
       "url": "/app/forms/update/?a=update&item=project&key=203",
       "rrule": "DTSTART:20190731\nRRULE:FREQ=MONTHLY;UNTIL=20210701;INTERVAL=1;BYMONTHDAY=28,29,30,31;BYSETPOS=-1"
     },
@@ -287,6 +308,7 @@
       "title": "Épargne Cuba 2020 : 621,67 $",
       "color": "#92C509",
       "category": "project",
+      "resource": "project",
       "url": "/app/forms/update/?a=update&item=project&key=265",
       "rrule": "DTSTART:20190731\nRRULE:FREQ=MONTHLY;UNTIL=20200701;INTERVAL=1;BYMONTHDAY=28,29,30,31;BYSETPOS=-1"
     }
